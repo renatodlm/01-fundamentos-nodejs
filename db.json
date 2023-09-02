@@ -1,0 +1,14 @@
+{
+   "users": [
+      {
+         "id": "395aff3c-9124-4435-90e4-81ee6c55ea06",
+         "name": "Mariana Lima Marques",
+         "email": "mariana@learning.com.br"
+      },
+      {
+         "id": "4ed154f0-eca7-458c-ab70-8f9a5e2bcfcb",
+         "name": "Renato de Lima Marques",
+         "email": "renato@learning.com.br"
+      }
+   ]
+}

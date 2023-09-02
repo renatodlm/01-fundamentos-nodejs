@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renato Marques</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **01-fundamentos-nodejs**
+ **01-fundamentos-nodejs**
 
 - 🌱 I’m currently learning **NodeJS**
 
